@@ -1,7 +1,6 @@
 # Data Structures
 
 This documentation provides a concise overview of the custom implementations for common data structures in Python.
-
 ---
 
 ## Array
